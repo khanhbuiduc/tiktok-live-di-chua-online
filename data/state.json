@@ -1,0 +1,3823 @@
+{
+  "channel": "chuaonline68",
+  "isConnected": false,
+  "connectionStatus": "idle",
+  "viewerCount": 193,
+  "huongCount": 12599,
+  "congDucCount": 429553,
+  "goMoCount": 92339,
+  "leaderboard": {
+    "tran_minh_quan": {
+      "uniqueId": "tran_minh_quan",
+      "nickname": "Trần Minh Quân",
+      "avatar": "",
+      "merit": 19410
+    },
+    "dieu_thao_t": {
+      "uniqueId": "dieu_thao_t",
+      "nickname": "Diệu Thảo T...",
+      "avatar": "",
+      "merit": 15280
+    },
+    "ngoc_anh_n": {
+      "uniqueId": "ngoc_anh_n",
+      "nickname": "Ngọc Anh N...",
+      "avatar": "",
+      "merit": 12850
+    },
+    "pham_thanh": {
+      "uniqueId": "pham_thanh",
+      "nickname": "Phạm Thanh...",
+      "avatar": "",
+      "merit": 10420
+    },
+    "duc_tran": {
+      "uniqueId": "duc_tran",
+      "nickname": "Đức Trần",
+      "avatar": "",
+      "merit": 8940
+    },
+    "vu_duc_thinh": {
+      "uniqueId": "vu_duc_thinh",
+      "nickname": "Vũ Đức Thịnh",
+      "avatar": "",
+      "merit": 7650
+    },
+    "thi_chu_557": {
+      "uniqueId": "thi_chu_557",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_55": {
+      "uniqueId": "thi_chu_55",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_646": {
+      "uniqueId": "thi_chu_646",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_181": {
+      "uniqueId": "thi_chu_181",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_337": {
+      "uniqueId": "thi_chu_337",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_321": {
+      "uniqueId": "thi_chu_321",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_754": {
+      "uniqueId": "thi_chu_754",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_724": {
+      "uniqueId": "thi_chu_724",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_344": {
+      "uniqueId": "thi_chu_344",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_192": {
+      "uniqueId": "thi_chu_192",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_301": {
+      "uniqueId": "thi_chu_301",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_445": {
+      "uniqueId": "thi_chu_445",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_952": {
+      "uniqueId": "thi_chu_952",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_710": {
+      "uniqueId": "thi_chu_710",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_526": {
+      "uniqueId": "thi_chu_526",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_708": {
+      "uniqueId": "thi_chu_708",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_50": {
+      "uniqueId": "thi_chu_50",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_745": {
+      "uniqueId": "thi_chu_745",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_734": {
+      "uniqueId": "thi_chu_734",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_606": {
+      "uniqueId": "thi_chu_606",
+      "nickname": "Hồng Nhung",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_180": {
+      "uniqueId": "thi_chu_180",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_925": {
+      "uniqueId": "thi_chu_925",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_902": {
+      "uniqueId": "thi_chu_902",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_635": {
+      "uniqueId": "thi_chu_635",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_706": {
+      "uniqueId": "thi_chu_706",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_759": {
+      "uniqueId": "thi_chu_759",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_786": {
+      "uniqueId": "thi_chu_786",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_524": {
+      "uniqueId": "thi_chu_524",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_170": {
+      "uniqueId": "thi_chu_170",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_234": {
+      "uniqueId": "thi_chu_234",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_691": {
+      "uniqueId": "thi_chu_691",
+      "nickname": "Hồng Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_154": {
+      "uniqueId": "thi_chu_154",
+      "nickname": "Hồng Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_988": {
+      "uniqueId": "thi_chu_988",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_531": {
+      "uniqueId": "thi_chu_531",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_901": {
+      "uniqueId": "thi_chu_901",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_740": {
+      "uniqueId": "thi_chu_740",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_82": {
+      "uniqueId": "thi_chu_82",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_907": {
+      "uniqueId": "thi_chu_907",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_528": {
+      "uniqueId": "thi_chu_528",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_394": {
+      "uniqueId": "thi_chu_394",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_630": {
+      "uniqueId": "thi_chu_630",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_672": {
+      "uniqueId": "thi_chu_672",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_584": {
+      "uniqueId": "thi_chu_584",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_757": {
+      "uniqueId": "thi_chu_757",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_324": {
+      "uniqueId": "thi_chu_324",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_647": {
+      "uniqueId": "thi_chu_647",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_269": {
+      "uniqueId": "thi_chu_269",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_732": {
+      "uniqueId": "thi_chu_732",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_71": {
+      "uniqueId": "thi_chu_71",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_400": {
+      "uniqueId": "thi_chu_400",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_503": {
+      "uniqueId": "thi_chu_503",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_839": {
+      "uniqueId": "thi_chu_839",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_611": {
+      "uniqueId": "thi_chu_611",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 65
+    },
+    "thi_chu_415": {
+      "uniqueId": "thi_chu_415",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_534": {
+      "uniqueId": "thi_chu_534",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_810": {
+      "uniqueId": "thi_chu_810",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_965": {
+      "uniqueId": "thi_chu_965",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_829": {
+      "uniqueId": "thi_chu_829",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_402": {
+      "uniqueId": "thi_chu_402",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_189": {
+      "uniqueId": "thi_chu_189",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_333": {
+      "uniqueId": "thi_chu_333",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_618": {
+      "uniqueId": "thi_chu_618",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_80": {
+      "uniqueId": "thi_chu_80",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_360": {
+      "uniqueId": "thi_chu_360",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_413": {
+      "uniqueId": "thi_chu_413",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_305": {
+      "uniqueId": "thi_chu_305",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_977": {
+      "uniqueId": "thi_chu_977",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_46": {
+      "uniqueId": "thi_chu_46",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_718": {
+      "uniqueId": "thi_chu_718",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_295": {
+      "uniqueId": "thi_chu_295",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_158": {
+      "uniqueId": "thi_chu_158",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_365": {
+      "uniqueId": "thi_chu_365",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_575": {
+      "uniqueId": "thi_chu_575",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_910": {
+      "uniqueId": "thi_chu_910",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_377": {
+      "uniqueId": "thi_chu_377",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_75": {
+      "uniqueId": "thi_chu_75",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_662": {
+      "uniqueId": "thi_chu_662",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_293": {
+      "uniqueId": "thi_chu_293",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_124": {
+      "uniqueId": "thi_chu_124",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_656": {
+      "uniqueId": "thi_chu_656",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_9": {
+      "uniqueId": "thi_chu_9",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_735": {
+      "uniqueId": "thi_chu_735",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_346": {
+      "uniqueId": "thi_chu_346",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_519": {
+      "uniqueId": "thi_chu_519",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_193": {
+      "uniqueId": "thi_chu_193",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_375": {
+      "uniqueId": "thi_chu_375",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_462": {
+      "uniqueId": "thi_chu_462",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_873": {
+      "uniqueId": "thi_chu_873",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_855": {
+      "uniqueId": "thi_chu_855",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_175": {
+      "uniqueId": "thi_chu_175",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_664": {
+      "uniqueId": "thi_chu_664",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 75
+    },
+    "thi_chu_961": {
+      "uniqueId": "thi_chu_961",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_379": {
+      "uniqueId": "thi_chu_379",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_352": {
+      "uniqueId": "thi_chu_352",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_229": {
+      "uniqueId": "thi_chu_229",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_775": {
+      "uniqueId": "thi_chu_775",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_99": {
+      "uniqueId": "thi_chu_99",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_453": {
+      "uniqueId": "thi_chu_453",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_214": {
+      "uniqueId": "thi_chu_214",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_353": {
+      "uniqueId": "thi_chu_353",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_850": {
+      "uniqueId": "thi_chu_850",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_392": {
+      "uniqueId": "thi_chu_392",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_676": {
+      "uniqueId": "thi_chu_676",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_342": {
+      "uniqueId": "thi_chu_342",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_558": {
+      "uniqueId": "thi_chu_558",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_304": {
+      "uniqueId": "thi_chu_304",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_549": {
+      "uniqueId": "thi_chu_549",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_693": {
+      "uniqueId": "thi_chu_693",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_701": {
+      "uniqueId": "thi_chu_701",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_366": {
+      "uniqueId": "thi_chu_366",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_314": {
+      "uniqueId": "thi_chu_314",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_233": {
+      "uniqueId": "thi_chu_233",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_510": {
+      "uniqueId": "thi_chu_510",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_447": {
+      "uniqueId": "thi_chu_447",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_258": {
+      "uniqueId": "thi_chu_258",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_909": {
+      "uniqueId": "thi_chu_909",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_52": {
+      "uniqueId": "thi_chu_52",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_241": {
+      "uniqueId": "thi_chu_241",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_107": {
+      "uniqueId": "thi_chu_107",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_10": {
+      "uniqueId": "thi_chu_10",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_243": {
+      "uniqueId": "thi_chu_243",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_372": {
+      "uniqueId": "thi_chu_372",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_1": {
+      "uniqueId": "thi_chu_1",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_313": {
+      "uniqueId": "thi_chu_313",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_7": {
+      "uniqueId": "thi_chu_7",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_714": {
+      "uniqueId": "thi_chu_714",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_739": {
+      "uniqueId": "thi_chu_739",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_626": {
+      "uniqueId": "thi_chu_626",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_523": {
+      "uniqueId": "thi_chu_523",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_743": {
+      "uniqueId": "thi_chu_743",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_161": {
+      "uniqueId": "thi_chu_161",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_755": {
+      "uniqueId": "thi_chu_755",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_351": {
+      "uniqueId": "thi_chu_351",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_737": {
+      "uniqueId": "thi_chu_737",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_550": {
+      "uniqueId": "thi_chu_550",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_296": {
+      "uniqueId": "thi_chu_296",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_830": {
+      "uniqueId": "thi_chu_830",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_226": {
+      "uniqueId": "thi_chu_226",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_576": {
+      "uniqueId": "thi_chu_576",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_58": {
+      "uniqueId": "thi_chu_58",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_368": {
+      "uniqueId": "thi_chu_368",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_343": {
+      "uniqueId": "thi_chu_343",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_252": {
+      "uniqueId": "thi_chu_252",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_479": {
+      "uniqueId": "thi_chu_479",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 55
+    },
+    "thi_chu_878": {
+      "uniqueId": "thi_chu_878",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_997": {
+      "uniqueId": "thi_chu_997",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_780": {
+      "uniqueId": "thi_chu_780",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_165": {
+      "uniqueId": "thi_chu_165",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_274": {
+      "uniqueId": "thi_chu_274",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_628": {
+      "uniqueId": "thi_chu_628",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_173": {
+      "uniqueId": "thi_chu_173",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_332": {
+      "uniqueId": "thi_chu_332",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_629": {
+      "uniqueId": "thi_chu_629",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_869": {
+      "uniqueId": "thi_chu_869",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_430": {
+      "uniqueId": "thi_chu_430",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_225": {
+      "uniqueId": "thi_chu_225",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_985": {
+      "uniqueId": "thi_chu_985",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_298": {
+      "uniqueId": "thi_chu_298",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_498": {
+      "uniqueId": "thi_chu_498",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_820": {
+      "uniqueId": "thi_chu_820",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_417": {
+      "uniqueId": "thi_chu_417",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_975": {
+      "uniqueId": "thi_chu_975",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_474": {
+      "uniqueId": "thi_chu_474",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_966": {
+      "uniqueId": "thi_chu_966",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_585": {
+      "uniqueId": "thi_chu_585",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_671": {
+      "uniqueId": "thi_chu_671",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_865": {
+      "uniqueId": "thi_chu_865",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_620": {
+      "uniqueId": "thi_chu_620",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_939": {
+      "uniqueId": "thi_chu_939",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_268": {
+      "uniqueId": "thi_chu_268",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_127": {
+      "uniqueId": "thi_chu_127",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_858": {
+      "uniqueId": "thi_chu_858",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_162": {
+      "uniqueId": "thi_chu_162",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_423": {
+      "uniqueId": "thi_chu_423",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_888": {
+      "uniqueId": "thi_chu_888",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_992": {
+      "uniqueId": "thi_chu_992",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_2": {
+      "uniqueId": "thi_chu_2",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_153": {
+      "uniqueId": "thi_chu_153",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_442": {
+      "uniqueId": "thi_chu_442",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_842": {
+      "uniqueId": "thi_chu_842",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_805": {
+      "uniqueId": "thi_chu_805",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_39": {
+      "uniqueId": "thi_chu_39",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_733": {
+      "uniqueId": "thi_chu_733",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_546": {
+      "uniqueId": "thi_chu_546",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_197": {
+      "uniqueId": "thi_chu_197",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_879": {
+      "uniqueId": "thi_chu_879",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_971": {
+      "uniqueId": "thi_chu_971",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_174": {
+      "uniqueId": "thi_chu_174",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_674": {
+      "uniqueId": "thi_chu_674",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_931": {
+      "uniqueId": "thi_chu_931",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_125": {
+      "uniqueId": "thi_chu_125",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_488": {
+      "uniqueId": "thi_chu_488",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_288": {
+      "uniqueId": "thi_chu_288",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_493": {
+      "uniqueId": "thi_chu_493",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_433": {
+      "uniqueId": "thi_chu_433",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_521": {
+      "uniqueId": "thi_chu_521",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_744": {
+      "uniqueId": "thi_chu_744",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_494": {
+      "uniqueId": "thi_chu_494",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_310": {
+      "uniqueId": "thi_chu_310",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_978": {
+      "uniqueId": "thi_chu_978",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_5": {
+      "uniqueId": "thi_chu_5",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_101": {
+      "uniqueId": "thi_chu_101",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_778": {
+      "uniqueId": "thi_chu_778",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_450": {
+      "uniqueId": "thi_chu_450",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_449": {
+      "uniqueId": "thi_chu_449",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_328": {
+      "uniqueId": "thi_chu_328",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_970": {
+      "uniqueId": "thi_chu_970",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_955": {
+      "uniqueId": "thi_chu_955",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_435": {
+      "uniqueId": "thi_chu_435",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_573": {
+      "uniqueId": "thi_chu_573",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_13": {
+      "uniqueId": "thi_chu_13",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_587": {
+      "uniqueId": "thi_chu_587",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_653": {
+      "uniqueId": "thi_chu_653",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_538": {
+      "uniqueId": "thi_chu_538",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_47": {
+      "uniqueId": "thi_chu_47",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_480": {
+      "uniqueId": "thi_chu_480",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_385": {
+      "uniqueId": "thi_chu_385",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_776": {
+      "uniqueId": "thi_chu_776",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_551": {
+      "uniqueId": "thi_chu_551",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_204": {
+      "uniqueId": "thi_chu_204",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_783": {
+      "uniqueId": "thi_chu_783",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_266": {
+      "uniqueId": "thi_chu_266",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_530": {
+      "uniqueId": "thi_chu_530",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_235": {
+      "uniqueId": "thi_chu_235",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_851": {
+      "uniqueId": "thi_chu_851",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_720": {
+      "uniqueId": "thi_chu_720",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_281": {
+      "uniqueId": "thi_chu_281",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_721": {
+      "uniqueId": "thi_chu_721",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_169": {
+      "uniqueId": "thi_chu_169",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_111": {
+      "uniqueId": "thi_chu_111",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_586": {
+      "uniqueId": "thi_chu_586",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_129": {
+      "uniqueId": "thi_chu_129",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_687": {
+      "uniqueId": "thi_chu_687",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_660": {
+      "uniqueId": "thi_chu_660",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_958": {
+      "uniqueId": "thi_chu_958",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_973": {
+      "uniqueId": "thi_chu_973",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_643": {
+      "uniqueId": "thi_chu_643",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_23": {
+      "uniqueId": "thi_chu_23",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_515": {
+      "uniqueId": "thi_chu_515",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_800": {
+      "uniqueId": "thi_chu_800",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_848": {
+      "uniqueId": "thi_chu_848",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_271": {
+      "uniqueId": "thi_chu_271",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_887": {
+      "uniqueId": "thi_chu_887",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_396": {
+      "uniqueId": "thi_chu_396",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_570": {
+      "uniqueId": "thi_chu_570",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_411": {
+      "uniqueId": "thi_chu_411",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_456": {
+      "uniqueId": "thi_chu_456",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_355": {
+      "uniqueId": "thi_chu_355",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_540": {
+      "uniqueId": "thi_chu_540",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_821": {
+      "uniqueId": "thi_chu_821",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_532": {
+      "uniqueId": "thi_chu_532",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_764": {
+      "uniqueId": "thi_chu_764",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_527": {
+      "uniqueId": "thi_chu_527",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_74": {
+      "uniqueId": "thi_chu_74",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_688": {
+      "uniqueId": "thi_chu_688",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_27": {
+      "uniqueId": "thi_chu_27",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_382": {
+      "uniqueId": "thi_chu_382",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_11": {
+      "uniqueId": "thi_chu_11",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_300": {
+      "uniqueId": "thi_chu_300",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_261": {
+      "uniqueId": "thi_chu_261",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_42": {
+      "uniqueId": "thi_chu_42",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_956": {
+      "uniqueId": "thi_chu_956",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_679": {
+      "uniqueId": "thi_chu_679",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_257": {
+      "uniqueId": "thi_chu_257",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_917": {
+      "uniqueId": "thi_chu_917",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_832": {
+      "uniqueId": "thi_chu_832",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_690": {
+      "uniqueId": "thi_chu_690",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_224": {
+      "uniqueId": "thi_chu_224",
+      "nickname": "Hồng Nhung",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_726": {
+      "uniqueId": "thi_chu_726",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_817": {
+      "uniqueId": "thi_chu_817",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_991": {
+      "uniqueId": "thi_chu_991",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_903": {
+      "uniqueId": "thi_chu_903",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_617": {
+      "uniqueId": "thi_chu_617",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_613": {
+      "uniqueId": "thi_chu_613",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_845": {
+      "uniqueId": "thi_chu_845",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_751": {
+      "uniqueId": "thi_chu_751",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_652": {
+      "uniqueId": "thi_chu_652",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_601": {
+      "uniqueId": "thi_chu_601",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_369": {
+      "uniqueId": "thi_chu_369",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_428": {
+      "uniqueId": "thi_chu_428",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_668": {
+      "uniqueId": "thi_chu_668",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_244": {
+      "uniqueId": "thi_chu_244",
+      "nickname": "Hồng Nhung",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_995": {
+      "uniqueId": "thi_chu_995",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_149": {
+      "uniqueId": "thi_chu_149",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_815": {
+      "uniqueId": "thi_chu_815",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 65
+    },
+    "thi_chu_987": {
+      "uniqueId": "thi_chu_987",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_583": {
+      "uniqueId": "thi_chu_583",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_350": {
+      "uniqueId": "thi_chu_350",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_935": {
+      "uniqueId": "thi_chu_935",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_155": {
+      "uniqueId": "thi_chu_155",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_819": {
+      "uniqueId": "thi_chu_819",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_118": {
+      "uniqueId": "thi_chu_118",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_827": {
+      "uniqueId": "thi_chu_827",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_246": {
+      "uniqueId": "thi_chu_246",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_441": {
+      "uniqueId": "thi_chu_441",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_339": {
+      "uniqueId": "thi_chu_339",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_213": {
+      "uniqueId": "thi_chu_213",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_980": {
+      "uniqueId": "thi_chu_980",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_414": {
+      "uniqueId": "thi_chu_414",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_881": {
+      "uniqueId": "thi_chu_881",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_291": {
+      "uniqueId": "thi_chu_291",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_4": {
+      "uniqueId": "thi_chu_4",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_651": {
+      "uniqueId": "thi_chu_651",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_738": {
+      "uniqueId": "thi_chu_738",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_899": {
+      "uniqueId": "thi_chu_899",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_614": {
+      "uniqueId": "thi_chu_614",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_202": {
+      "uniqueId": "thi_chu_202",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_90": {
+      "uniqueId": "thi_chu_90",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_237": {
+      "uniqueId": "thi_chu_237",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_73": {
+      "uniqueId": "thi_chu_73",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_659": {
+      "uniqueId": "thi_chu_659",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_731": {
+      "uniqueId": "thi_chu_731",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_779": {
+      "uniqueId": "thi_chu_779",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_370": {
+      "uniqueId": "thi_chu_370",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_103": {
+      "uniqueId": "thi_chu_103",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_277": {
+      "uniqueId": "thi_chu_277",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_622": {
+      "uniqueId": "thi_chu_622",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_895": {
+      "uniqueId": "thi_chu_895",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_33": {
+      "uniqueId": "thi_chu_33",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_183": {
+      "uniqueId": "thi_chu_183",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_802": {
+      "uniqueId": "thi_chu_802",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_914": {
+      "uniqueId": "thi_chu_914",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_106": {
+      "uniqueId": "thi_chu_106",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_198": {
+      "uniqueId": "thi_chu_198",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_53": {
+      "uniqueId": "thi_chu_53",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_938": {
+      "uniqueId": "thi_chu_938",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_16": {
+      "uniqueId": "thi_chu_16",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_142": {
+      "uniqueId": "thi_chu_142",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_522": {
+      "uniqueId": "thi_chu_522",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_502": {
+      "uniqueId": "thi_chu_502",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_828": {
+      "uniqueId": "thi_chu_828",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_32": {
+      "uniqueId": "thi_chu_32",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_990": {
+      "uniqueId": "thi_chu_990",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 50
+    },
+    "thi_chu_286": {
+      "uniqueId": "thi_chu_286",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_120": {
+      "uniqueId": "thi_chu_120",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_781": {
+      "uniqueId": "thi_chu_781",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_518": {
+      "uniqueId": "thi_chu_518",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_378": {
+      "uniqueId": "thi_chu_378",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_6": {
+      "uniqueId": "thi_chu_6",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_0": {
+      "uniqueId": "thi_chu_0",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_704": {
+      "uniqueId": "thi_chu_704",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_330": {
+      "uniqueId": "thi_chu_330",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_212": {
+      "uniqueId": "thi_chu_212",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_207": {
+      "uniqueId": "thi_chu_207",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_419": {
+      "uniqueId": "thi_chu_419",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_882": {
+      "uniqueId": "thi_chu_882",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_682": {
+      "uniqueId": "thi_chu_682",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_429": {
+      "uniqueId": "thi_chu_429",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_405": {
+      "uniqueId": "thi_chu_405",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_21": {
+      "uniqueId": "thi_chu_21",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_263": {
+      "uniqueId": "thi_chu_263",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_363": {
+      "uniqueId": "thi_chu_363",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_358": {
+      "uniqueId": "thi_chu_358",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_897": {
+      "uniqueId": "thi_chu_897",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_37": {
+      "uniqueId": "thi_chu_37",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_483": {
+      "uniqueId": "thi_chu_483",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_896": {
+      "uniqueId": "thi_chu_896",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_642": {
+      "uniqueId": "thi_chu_642",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_578": {
+      "uniqueId": "thi_chu_578",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_262": {
+      "uniqueId": "thi_chu_262",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_284": {
+      "uniqueId": "thi_chu_284",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_171": {
+      "uniqueId": "thi_chu_171",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_552": {
+      "uniqueId": "thi_chu_552",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_870": {
+      "uniqueId": "thi_chu_870",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_260": {
+      "uniqueId": "thi_chu_260",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_390": {
+      "uniqueId": "thi_chu_390",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_3": {
+      "uniqueId": "thi_chu_3",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_941": {
+      "uniqueId": "thi_chu_941",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_238": {
+      "uniqueId": "thi_chu_238",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_812": {
+      "uniqueId": "thi_chu_812",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_700": {
+      "uniqueId": "thi_chu_700",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_930": {
+      "uniqueId": "thi_chu_930",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_898": {
+      "uniqueId": "thi_chu_898",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_25": {
+      "uniqueId": "thi_chu_25",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_69": {
+      "uniqueId": "thi_chu_69",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_836": {
+      "uniqueId": "thi_chu_836",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_138": {
+      "uniqueId": "thi_chu_138",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 35
+    },
+    "thi_chu_885": {
+      "uniqueId": "thi_chu_885",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_906": {
+      "uniqueId": "thi_chu_906",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_514": {
+      "uniqueId": "thi_chu_514",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_675": {
+      "uniqueId": "thi_chu_675",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_439": {
+      "uniqueId": "thi_chu_439",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_823": {
+      "uniqueId": "thi_chu_823",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_928": {
+      "uniqueId": "thi_chu_928",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_65": {
+      "uniqueId": "thi_chu_65",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_61": {
+      "uniqueId": "thi_chu_61",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_680": {
+      "uniqueId": "thi_chu_680",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_641": {
+      "uniqueId": "thi_chu_641",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_168": {
+      "uniqueId": "thi_chu_168",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_278": {
+      "uniqueId": "thi_chu_278",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_459": {
+      "uniqueId": "thi_chu_459",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_403": {
+      "uniqueId": "thi_chu_403",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_784": {
+      "uniqueId": "thi_chu_784",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_709": {
+      "uniqueId": "thi_chu_709",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_986": {
+      "uniqueId": "thi_chu_986",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 40
+    },
+    "thi_chu_452": {
+      "uniqueId": "thi_chu_452",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_798": {
+      "uniqueId": "thi_chu_798",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_12": {
+      "uniqueId": "thi_chu_12",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_654": {
+      "uniqueId": "thi_chu_654",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_555": {
+      "uniqueId": "thi_chu_555",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_150": {
+      "uniqueId": "thi_chu_150",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_359": {
+      "uniqueId": "thi_chu_359",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_57": {
+      "uniqueId": "thi_chu_57",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_568": {
+      "uniqueId": "thi_chu_568",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_100": {
+      "uniqueId": "thi_chu_100",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_998": {
+      "uniqueId": "thi_chu_998",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_657": {
+      "uniqueId": "thi_chu_657",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_717": {
+      "uniqueId": "thi_chu_717",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_108": {
+      "uniqueId": "thi_chu_108",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_312": {
+      "uniqueId": "thi_chu_312",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_684": {
+      "uniqueId": "thi_chu_684",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_492": {
+      "uniqueId": "thi_chu_492",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_115": {
+      "uniqueId": "thi_chu_115",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_797": {
+      "uniqueId": "thi_chu_797",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_455": {
+      "uniqueId": "thi_chu_455",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_465": {
+      "uniqueId": "thi_chu_465",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_196": {
+      "uniqueId": "thi_chu_196",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_239": {
+      "uniqueId": "thi_chu_239",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_989": {
+      "uniqueId": "thi_chu_989",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_981": {
+      "uniqueId": "thi_chu_981",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_762": {
+      "uniqueId": "thi_chu_762",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_809": {
+      "uniqueId": "thi_chu_809",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_891": {
+      "uniqueId": "thi_chu_891",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_146": {
+      "uniqueId": "thi_chu_146",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_605": {
+      "uniqueId": "thi_chu_605",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_308": {
+      "uniqueId": "thi_chu_308",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_194": {
+      "uniqueId": "thi_chu_194",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_148": {
+      "uniqueId": "thi_chu_148",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_354": {
+      "uniqueId": "thi_chu_354",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_561": {
+      "uniqueId": "thi_chu_561",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_712": {
+      "uniqueId": "thi_chu_712",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_500": {
+      "uniqueId": "thi_chu_500",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_807": {
+      "uniqueId": "thi_chu_807",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_742": {
+      "uniqueId": "thi_chu_742",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_228": {
+      "uniqueId": "thi_chu_228",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_529": {
+      "uniqueId": "thi_chu_529",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_556": {
+      "uniqueId": "thi_chu_556",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_588": {
+      "uniqueId": "thi_chu_588",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_216": {
+      "uniqueId": "thi_chu_216",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_19": {
+      "uniqueId": "thi_chu_19",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_569": {
+      "uniqueId": "thi_chu_569",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_361": {
+      "uniqueId": "thi_chu_361",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_399": {
+      "uniqueId": "thi_chu_399",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_406": {
+      "uniqueId": "thi_chu_406",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_116": {
+      "uniqueId": "thi_chu_116",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_110": {
+      "uniqueId": "thi_chu_110",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_131": {
+      "uniqueId": "thi_chu_131",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_607": {
+      "uniqueId": "thi_chu_607",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_760": {
+      "uniqueId": "thi_chu_760",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_409": {
+      "uniqueId": "thi_chu_409",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_954": {
+      "uniqueId": "thi_chu_954",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_472": {
+      "uniqueId": "thi_chu_472",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_944": {
+      "uniqueId": "thi_chu_944",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_722": {
+      "uniqueId": "thi_chu_722",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_427": {
+      "uniqueId": "thi_chu_427",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_655": {
+      "uniqueId": "thi_chu_655",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_936": {
+      "uniqueId": "thi_chu_936",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_803": {
+      "uniqueId": "thi_chu_803",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_631": {
+      "uniqueId": "thi_chu_631",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_565": {
+      "uniqueId": "thi_chu_565",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_595": {
+      "uniqueId": "thi_chu_595",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_736": {
+      "uniqueId": "thi_chu_736",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_577": {
+      "uniqueId": "thi_chu_577",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 45
+    },
+    "thi_chu_877": {
+      "uniqueId": "thi_chu_877",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_571": {
+      "uniqueId": "thi_chu_571",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_436": {
+      "uniqueId": "thi_chu_436",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_554": {
+      "uniqueId": "thi_chu_554",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_376": {
+      "uniqueId": "thi_chu_376",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_741": {
+      "uniqueId": "thi_chu_741",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_259": {
+      "uniqueId": "thi_chu_259",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_612": {
+      "uniqueId": "thi_chu_612",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_537": {
+      "uniqueId": "thi_chu_537",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_770": {
+      "uniqueId": "thi_chu_770",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_862": {
+      "uniqueId": "thi_chu_862",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_790": {
+      "uniqueId": "thi_chu_790",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_703": {
+      "uniqueId": "thi_chu_703",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_26": {
+      "uniqueId": "thi_chu_26",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_178": {
+      "uniqueId": "thi_chu_178",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_649": {
+      "uniqueId": "thi_chu_649",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_507": {
+      "uniqueId": "thi_chu_507",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_487": {
+      "uniqueId": "thi_chu_487",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_81": {
+      "uniqueId": "thi_chu_81",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_303": {
+      "uniqueId": "thi_chu_303",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_276": {
+      "uniqueId": "thi_chu_276",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_18": {
+      "uniqueId": "thi_chu_18",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_218": {
+      "uniqueId": "thi_chu_218",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_824": {
+      "uniqueId": "thi_chu_824",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_564": {
+      "uniqueId": "thi_chu_564",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_364": {
+      "uniqueId": "thi_chu_364",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_963": {
+      "uniqueId": "thi_chu_963",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_134": {
+      "uniqueId": "thi_chu_134",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_683": {
+      "uniqueId": "thi_chu_683",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_79": {
+      "uniqueId": "thi_chu_79",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_544": {
+      "uniqueId": "thi_chu_544",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_771": {
+      "uniqueId": "thi_chu_771",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_401": {
+      "uniqueId": "thi_chu_401",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_49": {
+      "uniqueId": "thi_chu_49",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_482": {
+      "uniqueId": "thi_chu_482",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_695": {
+      "uniqueId": "thi_chu_695",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_67": {
+      "uniqueId": "thi_chu_67",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_166": {
+      "uniqueId": "thi_chu_166",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_302": {
+      "uniqueId": "thi_chu_302",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_542": {
+      "uniqueId": "thi_chu_542",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_242": {
+      "uniqueId": "thi_chu_242",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_41": {
+      "uniqueId": "thi_chu_41",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_509": {
+      "uniqueId": "thi_chu_509",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_486": {
+      "uniqueId": "thi_chu_486",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_634": {
+      "uniqueId": "thi_chu_634",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_374": {
+      "uniqueId": "thi_chu_374",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_272": {
+      "uniqueId": "thi_chu_272",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_728": {
+      "uniqueId": "thi_chu_728",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_91": {
+      "uniqueId": "thi_chu_91",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_591": {
+      "uniqueId": "thi_chu_591",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_331": {
+      "uniqueId": "thi_chu_331",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_962": {
+      "uniqueId": "thi_chu_962",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_814": {
+      "uniqueId": "thi_chu_814",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_109": {
+      "uniqueId": "thi_chu_109",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_15": {
+      "uniqueId": "thi_chu_15",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_476": {
+      "uniqueId": "thi_chu_476",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_348": {
+      "uniqueId": "thi_chu_348",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_275": {
+      "uniqueId": "thi_chu_275",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_426": {
+      "uniqueId": "thi_chu_426",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_283": {
+      "uniqueId": "thi_chu_283",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_834": {
+      "uniqueId": "thi_chu_834",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_580": {
+      "uniqueId": "thi_chu_580",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_112": {
+      "uniqueId": "thi_chu_112",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_315": {
+      "uniqueId": "thi_chu_315",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_972": {
+      "uniqueId": "thi_chu_972",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_610": {
+      "uniqueId": "thi_chu_610",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_625": {
+      "uniqueId": "thi_chu_625",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_386": {
+      "uniqueId": "thi_chu_386",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_88": {
+      "uniqueId": "thi_chu_88",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_94": {
+      "uniqueId": "thi_chu_94",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_667": {
+      "uniqueId": "thi_chu_667",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_477": {
+      "uniqueId": "thi_chu_477",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_485": {
+      "uniqueId": "thi_chu_485",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_143": {
+      "uniqueId": "thi_chu_143",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_199": {
+      "uniqueId": "thi_chu_199",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_387": {
+      "uniqueId": "thi_chu_387",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_432": {
+      "uniqueId": "thi_chu_432",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_715": {
+      "uniqueId": "thi_chu_715",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_673": {
+      "uniqueId": "thi_chu_673",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_767": {
+      "uniqueId": "thi_chu_767",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_484": {
+      "uniqueId": "thi_chu_484",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_685": {
+      "uniqueId": "thi_chu_685",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_122": {
+      "uniqueId": "thi_chu_122",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_141": {
+      "uniqueId": "thi_chu_141",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_705": {
+      "uniqueId": "thi_chu_705",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_860": {
+      "uniqueId": "thi_chu_860",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_627": {
+      "uniqueId": "thi_chu_627",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_548": {
+      "uniqueId": "thi_chu_548",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_818": {
+      "uniqueId": "thi_chu_818",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_248": {
+      "uniqueId": "thi_chu_248",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_132": {
+      "uniqueId": "thi_chu_132",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_349": {
+      "uniqueId": "thi_chu_349",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_30": {
+      "uniqueId": "thi_chu_30",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_123": {
+      "uniqueId": "thi_chu_123",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_600": {
+      "uniqueId": "thi_chu_600",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_969": {
+      "uniqueId": "thi_chu_969",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_535": {
+      "uniqueId": "thi_chu_535",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_340": {
+      "uniqueId": "thi_chu_340",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_866": {
+      "uniqueId": "thi_chu_866",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_495": {
+      "uniqueId": "thi_chu_495",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_859": {
+      "uniqueId": "thi_chu_859",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_621": {
+      "uniqueId": "thi_chu_621",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_993": {
+      "uniqueId": "thi_chu_993",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_816": {
+      "uniqueId": "thi_chu_816",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_794": {
+      "uniqueId": "thi_chu_794",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_184": {
+      "uniqueId": "thi_chu_184",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_960": {
+      "uniqueId": "thi_chu_960",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_562": {
+      "uniqueId": "thi_chu_562",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_512": {
+      "uniqueId": "thi_chu_512",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_599": {
+      "uniqueId": "thi_chu_599",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_582": {
+      "uniqueId": "thi_chu_582",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_96": {
+      "uniqueId": "thi_chu_96",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 30
+    },
+    "thi_chu_84": {
+      "uniqueId": "thi_chu_84",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_871": {
+      "uniqueId": "thi_chu_871",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_208": {
+      "uniqueId": "thi_chu_208",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_787": {
+      "uniqueId": "thi_chu_787",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_245": {
+      "uniqueId": "thi_chu_245",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_681": {
+      "uniqueId": "thi_chu_681",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_311": {
+      "uniqueId": "thi_chu_311",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_677": {
+      "uniqueId": "thi_chu_677",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_254": {
+      "uniqueId": "thi_chu_254",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_211": {
+      "uniqueId": "thi_chu_211",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_464": {
+      "uniqueId": "thi_chu_464",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 25
+    },
+    "thi_chu_916": {
+      "uniqueId": "thi_chu_916",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_933": {
+      "uniqueId": "thi_chu_933",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_318": {
+      "uniqueId": "thi_chu_318",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_658": {
+      "uniqueId": "thi_chu_658",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_623": {
+      "uniqueId": "thi_chu_623",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_362": {
+      "uniqueId": "thi_chu_362",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_44": {
+      "uniqueId": "thi_chu_44",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_160": {
+      "uniqueId": "thi_chu_160",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_752": {
+      "uniqueId": "thi_chu_752",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_789": {
+      "uniqueId": "thi_chu_789",
+      "nickname": "ht.",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_434": {
+      "uniqueId": "thi_chu_434",
+      "nickname": "GEN Chovy",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_854": {
+      "uniqueId": "thi_chu_854",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_135": {
+      "uniqueId": "thi_chu_135",
+      "nickname": "gia.hung672",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_322": {
+      "uniqueId": "thi_chu_322",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_270": {
+      "uniqueId": "thi_chu_270",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_294": {
+      "uniqueId": "thi_chu_294",
+      "nickname": "Hong Nhung",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_451": {
+      "uniqueId": "thi_chu_451",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_581": {
+      "uniqueId": "thi_chu_581",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 20
+    },
+    "thi_chu_338": {
+      "uniqueId": "thi_chu_338",
+      "nickname": "Smilebui",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_36": {
+      "uniqueId": "thi_chu_36",
+      "nickname": "Việt Hà🔔",
+      "avatar": "",
+      "merit": 15
+    },
+    "thi_chu_624": {
+      "uniqueId": "thi_chu_624",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_145": {
+      "uniqueId": "thi_chu_145",
+      "nickname": "Gái TVinh",
+      "avatar": "",
+      "merit": 10
+    },
+    "thi_chu_70": {
+      "uniqueId": "thi_chu_70",
+      "nickname": "Anh Thư",
+      "avatar": "",
+      "merit": 15
+    }
+  },
+  "recentDevotees": [
+    {
+      "uniqueId": "thi_chu_585",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_720",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_387",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_193",
+      "nickname": "GEN Chovy",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_70",
+      "nickname": "Anh Thư",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_507",
+      "nickname": "Gái TVinh",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_909",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_591",
+      "nickname": "Việt Hà🔔",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_885",
+      "nickname": "GEN Chovy",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_145",
+      "nickname": "Gái TVinh",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_624",
+      "nickname": "Anh Thư",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_360",
+      "nickname": "Anh Thư",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_36",
+      "nickname": "Việt Hà🔔",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_321",
+      "nickname": "GEN Chovy",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_268",
+      "nickname": "Hong Nhung",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_99",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_570",
+      "nickname": "ht.",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_331",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_338",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_581",
+      "nickname": "Smilebui",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_476",
+      "nickname": "Anh Thư",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_802",
+      "nickname": "GEN Chovy",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_451",
+      "nickname": "Tài nguyễn 🩷",
+      "avatar": ""
+    },
+    {
+      "uniqueId": "thi_chu_294",
+      "nickname": "Hong Nhung",
+      "avatar": ""
+    }
+  ]
+}

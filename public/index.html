@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ĐI CHÙA ONLINE | Chùa Linh Ứng — Chốn Bình An 🙏</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Dancing+Script:wght@600;700&family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <!-- Khung Wrapper căn giữa màn hình hoặc phủ kín 1080x1920 trên OBS -->
+  <div id="viewport-wrapper">
+    <div id="stage-9x16">
+      <!-- Lớp 1: Hình nền Chính Điện Chùa Linh Ứng 9:16 -->
+      <div class="temple-bg"></div>
+      <div class="ambient-vignette"></div>
+
+      <!-- Lớp 2: Hào Quang Phật Bà & Hạt Sáng Tâm Linh (Canvas) -->
+      <div class="halo-container" aria-hidden="true">
+        <div class="mandala-ring ring-outer"></div>
+        <div class="mandala-ring ring-inner"></div>
+        <div class="mandala-glow"></div>
+      </div>
+      <canvas id="particles-canvas" width="1080" height="1920"></canvas>
+
+      <!-- Lớp 3: Khu vực Header & Hoành Phi (15% trên cùng) -->
+      <header class="top-header">
+        <div class="status-pills-row">
+          <div class="status-pill left-pill">
+            <span class="live-dot" id="live-dot"></span>
+            <span id="channel-label">LIVE @dichua0nline</span>
+            <span class="dot-sep">•</span>
+            <span id="viewer-count">193</span>&nbsp;mắt
+          </div>
+          <div class="status-pill right-pill">
+            <span>🔥 <strong id="huong-count">12.064</strong> hương</span>
+            <span class="dot-sep">•</span>
+            <span>✨ <strong id="congduc-count">418.243</strong> CĐ</span>
+          </div>
+        </div>
+
+        <div class="hoanh-phi-banner">
+          <h1 class="temple-title">CHÙA LINH ỨNG</h1>
+          <p class="temple-subtitle">Cầu Bình An - Cầu Tài Lộc - Cầu May Mắn</p>
+        </div>
+      </header>
+
+      <!-- Lớp 4: Khu vực Chính Điện, Bát Hương & Các Pháp Khí Tương Tác -->
+      <section class="altar-zone">
+        <!-- Lư hương trung tâm với nhang cháy đỏ & khói bay -->
+        <div class="incense-burner-spot" id="incense-burner">
+          <div class="smoke-container">
+            <span class="smoke-wisp s1"></span>
+            <span class="smoke-wisp s2"></span>
+            <span class="smoke-wisp s3"></span>
+            <span class="smoke-wisp s4"></span>
+          </div>
+          <div class="incense-sticks" id="incense-sticks">
+            <span class="stick st-1"><i></i></span>
+            <span class="stick st-2"><i></i></span>
+            <span class="stick st-3"><i></i></span>
+            <span class="stick st-4"><i></i></span>
+            <span class="stick st-5"><i></i></span>
+          </div>
+        </div>
+
+        <!-- Pháp khí bên trái: Đại Hồng Chung (Thỉnh Chuông) -->
+        <div class="dharma-instrument bell-instrument" id="btn-instrument-bell" title="Click để Thỉnh Đại Hồng Chung">
+          <div class="soundwave-rings" id="bell-rings"></div>
+          <div class="instrument-visual bell-visual" id="bell-visual">
+            <svg viewBox="0 0 80 90" class="instrument-svg">
+              <defs>
+                <linearGradient id="bellGrad" x1="0" y1="0" x2="1" y2="1">
+                  <stop offset="0%" stop-color="#ffe082" />
+                  <stop offset="50%" stop-color="#f59e0b" />
+                  <stop offset="100%" stop-color="#92400e" />
+                </linearGradient>
+              </defs>
+              <!-- Giá gỗ treo chuông -->
+              <rect x="10" y="6" width="60" height="7" rx="3" fill="#5c2d0c" stroke="#fbbf24" stroke-width="1.5" />
+              <rect x="14" y="12" width="6" height="72" rx="2" fill="#4a2208" />
+              <rect x="60" y="12" width="6" height="72" rx="2" fill="#4a2208" />
+              <!-- Quả chuông đồng -->
+              <path d="M40 13 L40 22 M28 24 C28 19, 52 19, 52 24 L56 62 C58 67, 62 70, 62 73 L18 73 C18 70, 22 67, 24 62 Z" fill="url(#bellGrad)" stroke="#fef08a" stroke-width="1.5" />
+              <circle cx="40" cy="75" r="4" fill="#fde047" />
+            </svg>
+          </div>
+          <div class="instrument-pill">🔔 Thỉnh Chuông</div>
+          <div class="floating-merit-anchor" id="bell-merit-anchor"></div>
+        </div>
+
+        <!-- Pháp khí bên phải trên: Ống Xăm (Xin Xăm) -->
+        <div class="dharma-instrument xinxam-instrument" id="btn-instrument-xinxam" title="Click để Rút Quẻ Xin Xăm">
+          <div class="instrument-visual xinxam-visual" id="xinxam-visual">
+            <svg viewBox="0 0 70 85" class="instrument-svg">
+              <!-- Các thẻ xăm nhô lên -->
+              <rect x="22" y="6" width="5" height="32" rx="2" transform="rotate(-12 24 22)" fill="#fde68a" stroke="#b45309" />
+              <rect x="30" y="3" width="5" height="34" rx="2" transform="rotate(-3 32 20)" fill="#fef08a" stroke="#b45309" />
+              <rect x="37" y="5" width="5" height="34" rx="2" transform="rotate(6 39 22)" fill="#fde68a" stroke="#b45309" />
+              <rect x="44" y="8" width="5" height="32" rx="2" transform="rotate(15 46 24)" fill="#fcd34d" stroke="#b45309" />
+              <!-- Ống tre đỏ viền vàng -->
+              <rect x="18" y="28" width="34" height="50" rx="6" fill="#991b1b" stroke="#fbbf24" stroke-width="2" />
+              <line x1="18" y1="40" x2="52" y2="40" stroke="#fbbf24" stroke-width="1.5" />
+              <line x1="18" y1="66" x2="52" y2="66" stroke="#fbbf24" stroke-width="1.5" />
+              <text x="35" y="57" text-anchor="middle" fill="#fde047" font-size="14" font-weight="bold">籤</text>
+            </svg>
+          </div>
+          <div class="instrument-pill">🎋 Xin Xăm</div>
+        </div>
+
+        <!-- Pháp khí bên phải dưới: Mõ Gỗ (Gõ Mõ) -->
+        <div class="dharma-instrument gomo-instrument" id="btn-instrument-gomo" title="Click để Gõ Mõ Tích Công Đức">
+          <div class="instrument-visual gomo-visual" id="gomo-visual">
+            <svg viewBox="0 0 80 65" class="instrument-svg">
+              <defs>
+                <radialGradient id="woodGrad" cx="40%" cy="35%" r="65%">
+                  <stop offset="0%" stop-color="#f59e0b" />
+                  <stop offset="60%" stop-color="#b45309" />
+                  <stop offset="100%" stop-color="#78350f" />
+                </radialGradient>
+              </defs>
+              <!-- Đệm đỏ lót mõ -->
+              <ellipse cx="40" cy="52" rx="30" ry="9" fill="#991b1b" stroke="#fbbf24" stroke-width="1.5" />
+              <!-- Thân mõ gỗ -->
+              <path d="M16 40 C14 20, 32 12, 44 14 C58 16, 66 28, 64 42 C62 50, 20 50, 16 40 Z" fill="url(#woodGrad)" stroke="#fde68a" stroke-width="1.5" />
+              <!-- Khe mõ -->
+              <path d="M22 36 Q40 41 57 35" stroke="#271206" stroke-width="4" fill="none" stroke-linecap="round" />
+              <circle cx="24" cy="36" r="3.5" fill="#271206" />
+            </svg>
+          </div>
+          <div class="instrument-pill">🪵 Gõ Mõ (<span id="gomo-count">91.890</span>)</div>
+          <div class="floating-merit-anchor" id="gomo-merit-anchor"></div>
+        </div>
+
+        <!-- Vùng chứa các thẻ SỚ CẦU AN bay lên -->
+        <div class="prayer-scrolls-layer" id="prayer-scrolls-layer"></div>
+      </section>
+
+      <!-- Lớp 5: Khu vực Sân Chùa - Hàng ghế Chư Tăng / Phật Tử & Vị trí Hành Lễ Trung Tâm -->
+      <section class="courtyard-zone">
+        <!-- Hàng ngang danh dự Top 1 - Top 6 ngay trước bàn thờ -->
+        <div class="honor-row" id="honor-row">
+          <div class="honor-group left-honor" id="honor-left"></div>
+          <div class="honor-group right-honor" id="honor-right"></div>
+        </div>
+
+        <!-- Hai dãy Phật tử ngồi thiền hai bên thảm đỏ (16 vị trí) -->
+        <div class="side-devotees-grid">
+          <div class="side-column left-column" id="side-left"></div>
+          <div class="side-column right-column" id="side-right"></div>
+        </div>
+
+        <!-- Vị trí Hành Lễ Trung Tâm (Giữa thảm đỏ hoa sen) -->
+        <div class="center-worshipper-spot" id="center-worshipper">
+          <div class="speech-bubble" id="center-speech-bubble">
+            "Hữu duyên tương ngộ nơi cửa Phật, cầu bình an may mắn 🙏"
+          </div>
+          <div class="worshipper-figure bowing" id="center-figure">
+            <!-- SVG Tiểu sư / Phật tử áo lam chắp tay vái lạy -->
+            <svg viewBox="0 0 120 150" class="monk-svg center-monk-svg">
+              <!-- Đệm cói (Bồ đoàn) -->
+              <ellipse cx="60" cy="134" rx="44" ry="12" fill="#b45309" stroke="#fbbf24" stroke-width="2" />
+              <ellipse cx="60" cy="131" rx="38" ry="9" fill="#d97706" />
+              <!-- Thân áo tràng lam -->
+              <path d="M32 128 C28 96, 40 76, 60 76 C80 76, 92 96, 88 128 Z" fill="#64748b" stroke="#cbd5e1" stroke-width="1.5" />
+              <!-- Cổ áo chữ V -->
+              <path d="M48 78 L60 96 L72 78" fill="none" stroke="#e2e8f0" stroke-width="3" />
+              <!-- Hai tay chắp lễ trước ngực -->
+              <ellipse cx="42" cy="104" rx="12" ry="9" fill="#475569" />
+              <ellipse cx="78" cy="104" rx="12" ry="9" fill="#475569" />
+              <path d="M55 102 C57 90, 63 90, 65 102 Z" fill="#fed7aa" stroke="#ea580c" stroke-width="1" />
+              <!-- Đầu tiểu sư nhìn hướng lên Phật -->
+              <circle cx="60" cy="50" r="24" fill="#fed7aa" stroke="#d97706" stroke-width="1.5" />
+              <!-- Ánh hào quang nhẹ quanh tâm -->
+              <circle cx="60" cy="50" r="28" fill="none" stroke="rgba(251, 191, 36, 0.35)" stroke-width="2" />
+            </svg>
+          </div>
+          <div class="worshipper-badge" id="center-badge">
+            <div class="badge-avatar" id="center-avatar">🙏</div>
+            <div class="badge-info">
+              <div class="badge-name" id="center-name">Thí Chủ Hữu Duyên</div>
+              <div class="badge-action" id="center-action">Cầu phúc (+10 CĐ)</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Vùng hiệu ứng Hoa Hồng / Lễ Vật bay lên ở góc dưới trái -->
+        <div class="gift-fly-zone" id="gift-fly-zone"></div>
+      </section>
+
+      <!-- Lớp 6: Khu vực Footer (10% dưới cùng) - Ticker, Bảng Hướng Dẫn & BXH Tấm Lòng Thành -->
+      <footer class="bottom-footer">
+        <div class="footer-left-col">
+          <!-- Thanh thông báo hành động tức thời -->
+          <div class="action-ticker-box" id="action-ticker">
+            <span class="ticker-flower">🌸</span>
+            <span class="ticker-text" id="ticker-text">
+              <strong>Dy Tân</strong> — 🔔 Thỉnh Đại Hồng Chung (+10 CĐ)
+            </span>
+            <span class="ticker-flower">🌸</span>
+          </div>
+
+          <!-- Bảng hướng dẫn mức tương tác 3 cột -->
+          <div class="guide-box">
+            <div class="guide-caption">Thành tâm dâng một lễ...</div>
+            <div class="guide-pillars">
+              <div class="guide-pill">
+                <span class="gp-top">1 COIN / CMT</span>
+                <span class="gp-sub">📜 Dâng Sớ Cầu An</span>
+              </div>
+              <div class="guide-pill">
+                <span class="gp-top">5 COINS / TIM</span>
+                <span class="gp-sub">🪵 Gõ Mõ • Thỉnh Chuông</span>
+              </div>
+              <div class="guide-pill">
+                <span class="gp-top">10+ COINS</span>
+                <span class="gp-sub">🎋 Xin Xăm Đại Cát</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bảng xếp hạng TẤM LÒNG THÀNH bên phải -->
+        <div class="leaderboard-box">
+          <div class="lb-header">TẤM LÒNG THÀNH</div>
+          <div class="lb-list" id="leaderboard-list">
+            <!-- Render động từ state.topDevotees -->
+          </div>
+        </div>
+      </footer>
+
+      <!-- Lớp 7: Popup Modal Rút Quẻ / Xin Xăm (Giống hệt @chuaonline68) -->
+      <div class="xinxam-modal-backdrop hidden" id="xinxam-modal">
+        <div class="xinxam-card">
+          <div class="xinxam-inner-border">
+            <div class="xinxam-rank-badge" id="que-rank">THƯỢNG THƯỢNG CÁT</div>
+            <h2 class="xinxam-title" id="que-title">
+              Quẻ Số 99 — Vạn Sự Viên Thành — Cửu Cửu Đại Cát
+            </h2>
+            <p class="xinxam-requester">
+              Thí chủ cầu quẻ: <strong id="que-user">PHAT TOAN los Santos</strong>
+            </p>
+            <div class="xinxam-poem-box" id="que-poem">
+              <p>Chín tầng mây trắng ánh hào quang</p>
+              <p>Từ bi Phật Tổ độ nhân gian</p>
+              <p>Thí chủ lòng thành dâng lễ bái</p>
+              <p>Trọn đời trường thọ hưởng vinh khang.</p>
+            </div>
+            <p class="xinxam-meaning">
+              <strong>Lời bàn:</strong> <span id="que-meaning">Quẻ tối thượng cát tường. Sức khỏe trường thọ, công danh hiển đạt, vạn sự viên thành.</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bảng Điều Khiển Streamer (Nhấn phím H hoặc nút ☸️ góc phải để ẩn/hiện khi quay OBS) -->
+  <button id="toggle-dock-btn" class="dock-toggle-btn" title="Ẩn/Hiện Bảng Điều Khiển (Phím H)">
+    ☸️ Điều Khiển LIVE
+  </button>
+
+  <aside id="streamer-dock" class="streamer-dock">
+    <div class="dock-header">
+      <h3>☸️ Bảng Điều Khiển Đi Chùa Online</h3>
+      <button id="close-dock-btn" class="dock-close-btn" title="Ẩn (Phím H)">✕</button>
+    </div>
+
+    <div class="dock-section">
+      <label class="dock-label">Kết nối kênh TikTok LIVE (`TikTok-Live-Connector`):</label>
+      <div class="dock-input-row">
+        <input type="text" id="input-channel" value="dichua0nline" placeholder="@username đang LIVE..." />
+        <button id="btn-connect" class="dock-btn primary">Kết Nối</button>
+      </div>
+      <div id="connection-status-msg" class="dock-status">
+        Trạng thái: Đang chạy chế độ Tương Tác Trực Tiếp & Giả Lập
+      </div>
+    </div>
+
+    <div class="dock-section">
+      <label class="dock-label">Âm thanh & Tự động hóa:</label>
+      <div class="dock-toggles">
+        <button id="btn-toggle-audio" class="dock-btn toggle-btn active">🔊 Bật Nhạc Thiền & Chuông Mõ</button>
+        <button id="btn-toggle-tts" class="dock-btn toggle-btn active">🗣️ Giọng Đọc AI (TTS)</button>
+        <button id="btn-toggle-autSIM" class="dock-btn toggle-btn active">🤖 Tự Động Demo Phiên LIVE</button>
+      </div>
+    </div>
+
+    <div class="dock-section">
+      <label class="dock-label">Test Sự Kiện Tương Tác Ngay Lập Tức:</label>
+      <div class="dock-input-row">
+        <input type="text" id="sim-username" value="Hồng Nhung" placeholder="Tên thí chủ..." />
+        <input type="text" id="sim-comment" value="Con cầu tất cả môn thi trên 7 🙏" placeholder="Lời cầu nguyện..." />
+      </div>
+      <div class="dock-action-grid">
+        <button id="btn-sim-chat" class="dock-btn action-chat">📜 Gửi Sớ Cầu An (CMT)</button>
+        <button id="btn-sim-like" class="dock-btn action-like">🪵 Thả Tim Gõ Mõ (+15 CĐ)</button>
+        <button id="btn-sim-share" class="dock-btn action-share">🔔 Share Thỉnh Chuông</button>
+        <button id="btn-sim-gift" class="dock-btn action-gift">🌹 Tặng Hoa Hồng (Gift)</button>
+        <button id="btn-sim-xinxam" class="dock-btn action-xinxam">🎋 Rút Quẻ Số 99 (Xin Xăm)</button>
+      </div>
+    </div>
+
+    <div class="dock-footer-note">
+      💡 Mẹo OBS / TikTok LIVE Studio: Thêm <strong>Browser Source</strong> kích thước <code>1080x1920</code> với URL <code>http://localhost:3000/?hud=0</code> để ẩn bảng điều khiển này.
+    </div>
+  </aside>
+
+  <script src="/js/audio.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>
